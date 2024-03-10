@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MethodOverloading
 {
-    internal class methods
+    internal class Methods
     {
         public static int Add(int a, int b) { return a + b; }
 
